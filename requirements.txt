@@ -1,5 +1,7 @@
-torch
+fastapi
+uvicorn
 transformers
+torch
 datasets
 accelerate
-streamlit
+pydantic
